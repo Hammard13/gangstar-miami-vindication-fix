@@ -133,3 +133,4 @@ O histórico completo está em [`LOG.md`](LOG.md) (em espanhol).
 - Jogo original: Gameloft.
 - Mod "Fix" / "Vindication" para dispositivos modernos: **David Rice (gameloftrepairgames / Gameloft Repair Games)**.
 - Análise e patch para Android 16: este repositório.
+- Análise assistida por Claude (Anthropic).
