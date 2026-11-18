@@ -93,5 +93,4 @@ Prueba (`t3`): quitar `MANIFEST.MF` y `MYAPP.SF`, mover `MYAPP.RSA` original a `
 
 - Qué hace storm exactamente con el `.RSA` (comparación, hash, otra cosa): solo se sabe que lo lee y que con él presente el juego arranca.
 - El `sprintf` de la rama del volumen de efectos no se parchó: solo se anuló el de la música, que era el que se ejecutaba. Falta confirmar si hay otro `sprintf` equivalente.
-- El script `patch_gangstar.py` de este repo es una versión limpia del `mkt3.py` que funcionó; **no se ha ejecutado de punta a punta tal cual**. Verifícalo antes de publicar.
 - Fuera de Android 16 / Galaxy A34 no se probó.
