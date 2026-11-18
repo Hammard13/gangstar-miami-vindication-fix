@@ -1,0 +1,21 @@
+# APKs y artefactos de compilación
+*.apk
+*.idsig
+*.tmp.apk
+*.aligned.apk
+
+# Datos del juego (propiedad de Gameloft, muy pesados)
+*.zip
+
+# Claves de firma: NUNCA subir
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema / editor
+.DS_Store
+.vscode/
+.idea/
